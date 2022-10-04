@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
-#Steps to run
+# Steps to run
 
 1. Download as zip and extract.
 2. Open in code editor
