@@ -1,0 +1,17 @@
+<h1>View Students</h1>
+<div class="row">
+    <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="row g-3">
+            <div *ngFor="let i of data" class="col col-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Name: {{i.name}}</h5>
+                        <p class="card-text">Roll Number: {{i.rollno}}</p>
+                        <p class="card-text">Admission number: {{i.admn_no}}</p>
+                        <p class="card-text">College name: {{i.college}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
