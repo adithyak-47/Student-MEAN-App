@@ -5,9 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Steps to run
 
 1. Download as zip and extract.
-2. Open in code editor
+2. Open in code editor.
 3. Use terminal and use 'cd newapp' to access backend. Use 'nodemon app.js' to run server.
 4. Open a new terminal. Use 'ng serve' to run the application.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
