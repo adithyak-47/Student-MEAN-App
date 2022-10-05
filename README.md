@@ -9,7 +9,6 @@
 A practice MEAN Stack app that allows users to view and add student details. Node.js, Express.js and MongoDB are used for backend operations. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 # Steps to run
-
 1. Download as zip and extract.
 2. Open in code editor.
 3. Use terminal and use 'cd newapp' to access backend. Use 'nodemon app.js' to run server.
