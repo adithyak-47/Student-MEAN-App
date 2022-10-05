@@ -1,6 +1,12 @@
-# Studentinfo
+# Student Management System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+A practice MEAN Stack app that allows users to view and add student details. Node.js, Express.js and MongoDB are used for backend operations. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 # Steps to run
 
@@ -32,3 +38,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+[contributors-shield]: https://img.shields.io/github/contributors/adithyak-47/Student-MEAN-App.svg?style=for-the-badge
+[contributors-url]: https://github.com/adithyak-47/Student-MEAN-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adithyak-47/Student-MEAN-App.svg?style=for-the-badge
+[forks-url]: https://github.com/adithyak-47/Student-MEAN-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/adithyak-47/Student-MEAN-App.svg?style=for-the-badge
+[stars-url]: https://github.com/adithyak-47/Student-MEAN-App/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adithyak-47/Student-MEAN-App.svg?style=for-the-badge
+[issues-url]: https://github.com/adithyak-47/Student-MEAN-App/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/adithyak47/
